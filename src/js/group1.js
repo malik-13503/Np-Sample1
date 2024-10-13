@@ -19,6 +19,16 @@ questions = [
     a: 'Yes',
     choices: ['Yes', 'No']
   },
+  {
+    q: 'Which is NOT a feature of NP Gas composite cylinders?',
+    a: 'Corrodes easily',
+    choices: [
+      'Lightweight',
+      'Safe',
+      'Translucent',
+      'Corrodes easily'
+    ]
+  },
   // {
   //   q: 'Which statement below is FALSE?',
   //   a: 'Cylinders can be transported lying down in your vehicle',
@@ -29,25 +39,14 @@ questions = [
   //     'Cylinders should not be kept unused for more than 6 months'
   //   ]
   // },
-    {
-    q: 'Which is NOT a feature of NP Gas composite cylinders?',
+  {
+    q: 'What are the sizes of the NP composite cylinders',
     a: '11 LB and 22 LB',
     choices: [
       '10 LB and 25 LB ',
       '5 LB and 15 LB',
       '11 LB and 22 LB ',
       '20 LB and 100 LB'
-    ]
-  },
-
-  {
-    q: 'What are the sizes of the NP composite cylinders',
-    a: 'Corrodes easily',
-    choices: [
-      'Lightweight',
-      'Safe',
-      'Translucent',
-      'Corrodes easily '
     ]
   },
 

@@ -86,19 +86,19 @@ label {
   transform: translate(-50%, -50%);
   max-width: 400px;
   height: auto;
-  width: 35vw;
+  width: 30vw;
   z-index: 1001;
 }
 .ultra-logo {
   position: fixed;
   top: 9%;
   left: 50;
-  margin-left:-350px;
+  margin-left:-300px;
   
   transform: translate(-50%, -50%);
   max-width: 400px;
-  height: 15vw;
-  width: 15vw;
+  height: 12vw;
+  width: 12vw;
   z-index: 1001;
 }
 .np1-logo {
@@ -107,11 +107,11 @@ label {
   justify-content:left;
   align-items: normal;
   left: 50;
-  margin-left:350px;
+  margin-left:300px;
   transform: translate(-50%, -50%);
   max-width: 400px;
   height: auto;
-  width: 25vw;
+  width: 18vw;
   z-index: 1001;
 }
 
